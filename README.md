@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Dilan! 👋
 
-<!--
-**dilankose91/dilankose91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 *About Me*
 
-Here are some ideas to get you started:
+•⁠  ⁠📚 Computer Science student at CUNY LaGuardia CC<< passionate about coding and problem-solving.
+•⁠  ⁠💻 Currently learning C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ *Languages & Tools*
+•⁠  ⁠*Languages:* C++
+•⁠  ⁠*Tools:* GitHub, VS Code
+
+📫 *Connect with Me*
+•⁠  ⁠LinkedIn: www.linkedin.com/in/dilan-kose-b9a373361
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
